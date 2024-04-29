@@ -83,7 +83,7 @@ columns: 3
 ###########################
 
 # add the icon name to each icon
-icontext: false
+icontext: true
 
 ############################
 ## Tooltips
