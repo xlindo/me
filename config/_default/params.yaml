@@ -62,6 +62,14 @@ links:
   # - google:
   # - paypal:
   # - windows:
+  
+##############################
+## Monochromatic color scheme
+##############################
+
+# all links will be slate-700 (or slate-50 in dark mode)
+# https://tailwindcss.com/docs/customizing-colors
+monochrome: true
 
 ############################
 ## Colunms of Links
@@ -75,14 +83,14 @@ columns: 3
 ###########################
 
 # add the icon name to each icon
-icontext: true
+icontext: false
 
 ############################
 ## Tooltips
 ############################
 
 # add tooltips on all icons
-tooltip: true
+tooltip: false
 
 ###############################
 ## OpenGraph & Twitter Cards
